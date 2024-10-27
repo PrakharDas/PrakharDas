@@ -601,7 +601,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   <tr>
     <td colspan="3" align="center">
       <a href="mailto:prakhardas48@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=prakhardas48@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=prakhardas48@gmail.com&size=square" alt="Prakhar Das" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
