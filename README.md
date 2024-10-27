@@ -162,29 +162,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 </div>
 
-<h2 align="center">Socials Stats</h2>
-<div align="center">
-  <div align="center">
-    <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
-      <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
-    </a>
-    <h3>
-      <a href="https://www.instagram.com/mr_.rafik/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
-        Follow Me on Instagram
-      </a>
-    </h3>
-  </div>
-  <table>
-    <tr>
-      <td align="center" style="border: none;">
-        <div>
-          <img src="https://img.shields.io/badge/Instagram-101%20posts-e4405f?style=flat-square&logo=instagram" alt="Instagram Posts">
-          <img src="https://img.shields.io/badge/Instagram-1865%20followers-e4405f?style=flat-square&logo=instagram" alt="Instagram Followers">
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <div align="center">
 
