@@ -1,195 +1,186 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Prakhar%20Das&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0c29,50:302b63,100:24243e&text=Prakhar%20Das&fontSize=55&fontAlign=50&fontAlignY=38&fontColor=ffffff&desc=Flutter%20Developer%20|%20Full-Stack%20Developer%20|%20Software%20Engineer&descAlignY=58&animation=fadeIn" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Prakhar Das</h1>
+<h1 align="center">
+  Hello 👋, I'm <span style="color:#A020F0;">Prakhar Das</span>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Flutter+Developer;Full-Stack+Developer;Software+Engineer;IoT+%26+AI+Enthusiast;React+%7C+Flutter+%7C+Firebase+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A020F0&center=true&vCenter=true&width=900&lines=Flutter+Developer;Full-Stack+Developer;Software+Engineer;IoT+%26+AI+Enthusiast;React+%7C+Flutter+%7C+Firebase+%7C+Python" />
 </p>
 
 <p align="center">
-  Passionate about building real-time applications, AI-powered systems, and scalable full-stack solutions.
+  💡 Problem Solver &nbsp; | &nbsp;
+  🚀 Tech Enthusiast &nbsp; | &nbsp;
+  📚 Lifelong Learner &nbsp; | &nbsp;
+  ⚡ Builder
 </p>
 
----
-
-## 🌐 Connect With Me
+<br>
 
 <p align="center">
   <a href="https://github.com/PrakharDas">
-    <img src="https://skillicons.dev/icons?i=github" width="55" />
+    <img src="https://skillicons.dev/icons?i=github" height="55"/>
   </a>
   
+  &nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/prakhardas48/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
   </a>
+
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://prakhardas-portfolio.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=vercel" width="55" />
+    <img src="https://skillicons.dev/icons?i=vercel" height="55"/>
   </a>
 
+  &nbsp;&nbsp;&nbsp;
+
   <a href="mailto:prakhardas48@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
   </a>
 </p>
 
+<br>
+
 <p align="center">
-  <a href="https://github.com/PrakharDas">
-    <img src="https://komarev.com/ghpvc/?username=PrakharDas&label=Profile%20Views&color=blueviolet&style=flat" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=PrakharDas&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+### 🚀 Full-Stack & Flutter Developer
 
 - 🎓 B.Tech Electronics & Computer Science Student  
-- 💻 Full-Stack & Flutter Developer  
-- ⚡ Experienced with React, Flutter, Firebase, Flask, and Node.js  
-- 🤖 Interested in AI, IoT, Real-Time Systems, and Computer Vision  
-- 🛠 Built projects involving ESP32, YOLOv7, OpenCV, and Firebase Realtime DB  
+- 💻 Passionate about building scalable real-world applications  
+- ⚡ Experienced with Flutter, React, Firebase, Flask & Node.js  
+- 🤖 Interested in AI, IoT, Computer Vision & Real-Time Systems  
+- 🛠 Built projects using ESP32, YOLOv7, OpenCV & Firebase  
 - 📍 Based in Maharashtra, India  
+
+<br>
+<br>
 
 ---
 
 # 💼 Experience
 
-## Software Development Intern — Arthasva *(FinTech Startup)*
+## 🏢 Software Development Intern — Arthasva *(FinTech Startup)*
 
-- Built modules for a **Transport Management System** using Electron.js  
-- Developed KPI dashboards and lead management features in React.js  
-- Created UI components and investment tracking flows in React Native  
+### ⚙️ Tech Stack:
+React • React Native • Electron.js • Node.js
+
+- Built modules for a **Transport Management System** in Electron.js  
+- Developed KPI dashboards and lead management systems in React.js  
+- Created React Native UI components for fintech applications  
 - Worked across multiple products simultaneously in agile sprint cycles  
 
 ---
 
 # 🚀 Featured Projects
 
-## 🅿️ ParkEase — Smart IoT Parking System
+<p align="center">
 
-> Flutter + Firebase + ESP32
+<a href="https://github.com/PrakharDas">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrakharDas&repo=ParkEase&theme=tokyonight&hide_border=true" />
+</a>
 
-- Real-time smart parking management system  
-- Live slot booking and monitoring  
-- Firebase Realtime Database integration  
-- Hardware-to-app real-time communication pipeline  
+<a href="https://github.com/PrakharDas">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrakharDas&repo=Hawkeye&theme=tokyonight&hide_border=true" />
+</a>
 
-🔗 Repository:  
-https://github.com/PrakharDas
+<a href="https://github.com/PrakharDas">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrakharDas&repo=MedDrip&theme=tokyonight&hide_border=true" />
+</a>
 
----
-
-## 🛸 Hawkeye — AI Drone Detection System
-
-> ReactJS + Flask + YOLOv7 + OpenCV
-
-- Real-time drone detection web application  
-- Webcam, image, and video detection support  
-- Flask REST API with custom-trained YOLO model  
-- Live detection overlays and responsive frontend UI  
-
-🔗 Repository:  
-https://github.com/PrakharDas
-
----
-
-## 💉 MedDrip — IoT Saline Monitoring System
-
-> Flutter + Firebase + ESP32
-
-- IoT-based hospital saline monitoring system  
-- Real-time saline level tracking and alerts  
-- Remote dashboard with hardware-triggered updates  
-- Firebase-powered live sync system  
-
-🔗 Repository:  
-https://github.com/PrakharDas
-
----
-
-# 🛠 Tech Stack
-
-## 👨‍💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,dart,js,ts" />
 </p>
 
 ---
 
-## 🎨 Frontend Development
+# 💻 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
-
----
-
-## 📱 Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,react" />
-</p>
-
----
-
-## ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase" />
-</p>
-
----
-
-## 🗄 Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
-
----
-
-## 🤖 AI / ML
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-<p>
-  OpenCV • YOLOv7 • LangChain • OpenAI API
-</p>
-
----
-
-## ☁️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,render,docker,postman,vscode" />
-</p>
-
----
-
-# 📊 GitHub Stats
+<h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrakharDas&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180em" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharDas&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180em"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,dart,js,ts" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+<h3 align="center">Frontend Development</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+---
+
+<h3 align="center">Mobile Development</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,react" />
+</p>
+
+---
+
+<h3 align="center">Backend Development</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase" />
+</p>
+
+---
+
+<h3 align="center">Databases</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+---
+
+<h3 align="center">AI / ML</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p align="center">
+OpenCV • YOLOv7 • LangChain • OpenAI API
+</p>
+
+---
+
+<h3 align="center">Tools & Platforms</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,render,docker,postman,vscode,firebase" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrakharDas&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharDas&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+</p>
+
+<br>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PrakharDas&theme=tokyonight&hide_border=true&border_radius=15" />
 </p>
 
----
-
-# 📈 Contribution Graph
+<br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrakharDas&theme=tokyo-night&hide_border=true&radius=15" width="95%"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrakharDas&theme=tokyo-night&hide_border=true&radius=15"/>
 </p>
 
 ---
@@ -198,7 +189,7 @@ https://github.com/PrakharDas
 
 <p align="center">
   <a href="https://github.com/PrakharDas/Portfolio/blob/main/src/assets/Prakhar_Das_Resume.pdf">
-    <img src="https://img.shields.io/badge/View%20Resume-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20Resume-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
 
@@ -207,19 +198,27 @@ https://github.com/PrakharDas
 # 📫 Contact Me
 
 <p align="center">
-  📧 Email: <a href="mailto:prakhardas48@gmail.com">prakhardas48@gmail.com</a>
+  <a href="mailto:prakhardas48@gmail.com">
+    <img src="https://img.shields.io/badge/Email-prakhardas48%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
 <p align="center">
-  💼 LinkedIn: <a href="https://www.linkedin.com/in/prakhardas48/">linkedin.com/in/prakhardas48</a>
+  <a href="https://www.linkedin.com/in/prakhardas48/">
+    <img src="https://img.shields.io/badge/LinkedIn-Prakhar%20Das-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
 </p>
 
 <p align="center">
-  🌐 Portfolio: <a href="https://prakhardas-portfolio.vercel.app/">prakhardas-portfolio.vercel.app</a>
+  <a href="https://wa.me/917387284269">
+    <img src="https://img.shields.io/badge/WhatsApp-7387284269-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  📱 WhatsApp: <a href="https://wa.me/917387284269">+91 73872 84269</a>
+  <a href="https://prakhardas-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=vercel"/>
+  </a>
 </p>
 
 ---
@@ -228,4 +227,4 @@ https://github.com/PrakharDas
 ⭐ From <a href="https://github.com/PrakharDas">PrakharDas</a> — Building real-world software with passion 🚀
 </h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f0c29,50:302b63,100:24243e"/>
