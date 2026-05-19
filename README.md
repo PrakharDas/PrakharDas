@@ -8,39 +8,27 @@
 
 🧠 Problem Solver &nbsp;&nbsp;&nbsp; ⚡ Tech Enthusiast &nbsp;&nbsp;&nbsp; 📚 Lifelong Learner &nbsp;&nbsp;&nbsp; 🚀 Builder
 
-<br>
-
-<div align="center">
-
-<a href="https://github.com/PrakharDas">
-  <img src="https://skillicons.dev/icons?i=github" width="52"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/prakhardas48/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="52"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://prakhardas-portfolio.vercel.app/">
-  <img src="https://img.icons8.com/fluency/96/domain.png" width="52"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://wa.me/917387284269">
-  <img src="https://img.icons8.com/color/96/whatsapp--v1.png" width="52"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:prakhardas48@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="52"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/PrakharDas">
+    <img src="https://skillicons.dev/icons?i=github" width="52"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/prakhardas48/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="52"/>
+  </a>
+  
+  <a href="https://prakhardas-portfolio.vercel.app/">
+    <img src="https://img.icons8.com/fluency/96/domain.png" width="52"/>
+  </a>
+  
+  <a href="https://wa.me/917387284269">
+    <img src="https://img.icons8.com/color/96/whatsapp--v1.png" width="52"/>
+  </a>
+  
+  <a href="mailto:prakhardas48@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="52"/>
+  </a>
+</p>
 
 <br>
 
@@ -186,7 +174,18 @@ OpenCV
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,netlify,render,firebase" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git" width="48"/>
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/>
+<img src="https://skillicons.dev/icons?i=postman" width="48"/>
+<img src="https://skillicons.dev/icons?i=docker" width="48"/>
+<img src="https://skillicons.dev/icons?i=vercel" width="48"/>
+<img src="https://skillicons.dev/icons?i=netlify" width="48"/>
+<img src="https://skillicons.dev/icons?i=firebase" width="48"/>
+
+</p>
 
 </div>
 
