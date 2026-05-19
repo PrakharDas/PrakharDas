@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello 👋, I'm <span style="color:#a855f7;">Prakhar Das</span>
+# Hello 👋, I'm Prakhar Das
 
 ### Flutter Developer | Full-Stack Developer | Software Engineer | IoT & AI Enthusiast
 
@@ -8,28 +8,32 @@
 
 🧠 Problem Solver &nbsp;&nbsp;&nbsp; ⚡ Tech Enthusiast &nbsp;&nbsp;&nbsp; 📚 Lifelong Learner &nbsp;&nbsp;&nbsp; 🚀 Builder
 
-<br><br>
+<br>
 
 <div align="center">
 
 <a href="https://github.com/PrakharDas">
   <img src="https://skillicons.dev/icons?i=github" width="52"/>
 </a>
+
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/prakhardas48/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="52"/>
 </a>
+
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://prakhardas-portfolio.vercel.app/">
-  <img src="./icons/globe.png" width="52"/>
+  <img src="https://img.icons8.com/fluency/96/domain.png" width="52"/>
 </a>
+
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://wa.me/917387284269">
-  <img src="./icons/whatsapp.png" width="52"/>
+  <img src="https://img.icons8.com/color/96/whatsapp--v1.png" width="52"/>
 </a>
+
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:prakhardas48@gmail.com">
@@ -43,10 +47,6 @@
 <img src="https://komarev.com/ghpvc/?username=PrakharDas&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
 
 </div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2&section=header"/>
 
 ---
 
@@ -87,10 +87,6 @@ Computer Engineering student passionate about building scalable and real-world s
 
 </tr>
 </table>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2&section=header"/>
 
 ---
 
@@ -194,10 +190,6 @@ OpenCV
 
 </div>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2&section=header"/>
-
 ---
 
 # 🚀 Featured Projects
@@ -282,29 +274,21 @@ Healthcare IoT platform for real-time saline monitoring and alerts.
 
 </table>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2&section=header"/>
-
 ---
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PrakharDas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api?username=PrakharDas&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharDas&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=PrakharDas&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=PrakharDas&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2&section=header"/>
 
 ---
 
@@ -319,10 +303,6 @@ Healthcare IoT platform for real-time saline monitoring and alerts.
 </a>
 
 </div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2&section=header"/>
 
 ---
 
@@ -347,10 +327,6 @@ Healthcare IoT platform for real-time saline monitoring and alerts.
 </a>
 
 </div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2&section=header"/>
 
 ---
 
