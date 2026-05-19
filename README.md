@@ -213,7 +213,7 @@ Real-time smart parking system with slot booking and live monitoring.
 
 <br>
 
-<a href="YOUR_PARKEASE_REPO_LINK">
+<a href="https://github.com/PrakharDas/ParkEase">
   <img src="https://img.shields.io/badge/View%20Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -237,7 +237,7 @@ Real-time drone detection platform using AI and computer vision.
 
 <br>
 
-<a href="YOUR_HAWKEYE_REPO_LINK">
+<a href="https://github.com/PrakharDas/Hawkeye">
   <img src="https://img.shields.io/badge/View%20Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -261,7 +261,7 @@ Healthcare IoT platform for real-time saline monitoring and alerts.
 
 <br>
 
-<a href="YOUR_MEDDRIP_REPO_LINK">
+<a href="https://github.com/PrakharDas/MedDrip">
   <img src="https://img.shields.io/badge/View%20Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
