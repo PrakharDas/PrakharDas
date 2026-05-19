@@ -10,39 +10,43 @@
 
 <br><br>
 
-<a href="https://github.com/PrakharDas">
-  <img src="https://skillicons.dev/icons?i=github" width="55"/>
-</a>
+<div align="center">
 
+<a href="https://github.com/PrakharDas">
+  <img src="https://skillicons.dev/icons?i=github" width="52"/>
+</a>
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/prakhardas48/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="52"/>
 </a>
-
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://prakhardas-portfolio.vercel.app/">
-  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="55"/>
+  <img src="./icons/globe.png" width="52"/>
 </a>
-
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://wa.me/917387284269">
-  <img src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" width="55"/>
+  <img src="./icons/whatsapp.png" width="52"/>
 </a>
-
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:prakhardas48@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="52"/>
 </a>
 
-<br><br>
+</div>
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=PrakharDas&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
 
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2&section=header"/>
 
 ---
 
@@ -77,12 +81,16 @@ Computer Engineering student passionate about building scalable and real-world s
 
 <td width="50%">
 
-<img src="./assets/about.png"/>
+<img src="./assets/about.png" width="100%"/>
 
 </td>
 
 </tr>
 </table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2&section=header"/>
 
 ---
 
@@ -186,6 +194,10 @@ OpenCV
 
 </div>
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2&section=header"/>
+
 ---
 
 # 🚀 Featured Projects
@@ -198,7 +210,7 @@ OpenCV
 
 <div align="center">
 
-<img src="./assets/parkease.png"/>
+<img src="./assets/parkease.png" width="100%"/>
 
 ## 🅿️ ParkEase
 
@@ -210,7 +222,7 @@ Real-time smart parking system with slot booking and live monitoring.
 
 <br>
 
-<a href="YOUR_REPO_LINK">
+<a href="YOUR_PARKEASE_REPO_LINK">
   <img src="https://img.shields.io/badge/View%20Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -222,7 +234,7 @@ Real-time smart parking system with slot booking and live monitoring.
 
 <div align="center">
 
-<img src="./assets/hawkeye.png"/>
+<img src="./assets/hawkeye.png" width="100%"/>
 
 ## 🛸 Hawkeye
 
@@ -234,7 +246,7 @@ Real-time drone detection platform using AI and computer vision.
 
 <br>
 
-<a href="YOUR_REPO_LINK">
+<a href="YOUR_HAWKEYE_REPO_LINK">
   <img src="https://img.shields.io/badge/View%20Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -246,7 +258,7 @@ Real-time drone detection platform using AI and computer vision.
 
 <div align="center">
 
-<img src="./assets/meddrip.png"/>
+<img src="./assets/meddrip.png" width="100%"/>
 
 ## 💉 MedDrip
 
@@ -258,7 +270,7 @@ Healthcare IoT platform for real-time saline monitoring and alerts.
 
 <br>
 
-<a href="YOUR_REPO_LINK">
+<a href="YOUR_MEDDRIP_REPO_LINK">
   <img src="https://img.shields.io/badge/View%20Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -270,25 +282,29 @@ Healthcare IoT platform for real-time saline monitoring and alerts.
 
 </table>
 
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2&section=header"/>
+
 ---
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrakharDas&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PrakharDas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharDas&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharDas&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=PrakharDas&theme=tokyonight&hide_border=true"/>
 
-<br><br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrakharDas&theme=tokyo-night&hide_border=true"/>
-
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2&section=header"/>
 
 ---
 
@@ -303,6 +319,10 @@ Healthcare IoT platform for real-time saline monitoring and alerts.
 </a>
 
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2&section=header"/>
 
 ---
 
@@ -327,6 +347,10 @@ Healthcare IoT platform for real-time saline monitoring and alerts.
 </a>
 
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8A2BE2&height=2&section=header"/>
 
 ---
 
