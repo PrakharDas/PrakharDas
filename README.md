@@ -1,133 +1,57 @@
-<!-- ================= HEADER ================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=&fontSize=0&color=0:0B0014,25:21003A,50:5600A8,75:8A2BE2,100:C77DFF"/>
+# Hello 👋, I'm <span style="color:#a855f7;">Prakhar Das</span>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42"> I'm <span style="color:#C770FF;">Prakhar Das</span>
+### Flutter Developer | Full-Stack Developer | Software Engineer | IoT & AI Enthusiast
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=999999&color=C770FF&center=true&vCenter=true&width=1000&lines=Flutter+Developer+%7C+Full-Stack+Developer+%7C+Software+Engineer+%7C+IoT+%26+AI+Enthusiast"/>
+🧠 Problem Solver &nbsp;&nbsp;&nbsp; ⚡ Tech Enthusiast &nbsp;&nbsp;&nbsp; 📚 Lifelong Learner &nbsp;&nbsp;&nbsp; 🚀 Builder
 
 <br><br>
-
-<p align="center">
-🧠 <b>Problem Solver</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-⚡ <b>Tech Enthusiast</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-📚 <b>Lifelong Learner</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-🚀 <b>Builder</b>
-</p>
-
-<br>
-
-<!-- ================= SOCIAL CARDS ================= -->
-
-<table align="center">
-<tr>
-
-<td align="center" width="180">
 
 <a href="https://github.com/PrakharDas">
-
-<img src="https://skillicons.dev/icons?i=github" width="70"/>
-
-<br><br>
-
-### GitHub
-
-@PrakharDas
-
+  <img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
-</td>
-
-<td align="center" width="180">
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/prakhardas48/">
-
-<img src="https://skillicons.dev/icons?i=linkedin" width="70"/>
-
-<br><br>
-
-### LinkedIn
-
-/in/prakhardas48
-
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-</td>
-
-<td align="center" width="180">
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://prakhardas-portfolio.vercel.app/">
-
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="70"/>
-
-<br><br>
-
-### Portfolio
-
-Visit Website
-
+  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="55"/>
 </a>
 
-</td>
-
-<td align="center" width="180">
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://wa.me/917387284269">
-
-<img src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" width="70"/>
-
-<br><br>
-
-### WhatsApp
-
-+91 73872 84269
-
+  <img src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" width="55"/>
 </a>
 
-</td>
-
-<td align="center" width="180">
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:prakhardas48@gmail.com">
-
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="70"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
 
 <br><br>
 
-### Email
-
-prakhardas48@gmail.com
-
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=PrakharDas&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=PrakharDas&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<!-- ================= ABOUT ================= -->
-
-# <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="28"> About Me
+# 👨‍💻 About Me
 
 <table>
 <tr>
 
-<td width="52%">
+<td width="50%">
 
 ### 🚀 Full-Stack & Flutter Developer
 
@@ -151,9 +75,9 @@ Computer Engineering student passionate about building scalable and real-world s
 
 </td>
 
-<td width="48%">
+<td width="50%">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
+<img src="./assets/about.png"/>
 
 </td>
 
@@ -161,8 +85,6 @@ Computer Engineering student passionate about building scalable and real-world s
 </table>
 
 ---
-
-<!-- ================= TECH STACK ================= -->
 
 # ⚡ Tech Stack
 
@@ -174,86 +96,74 @@ Computer Engineering student passionate about building scalable and real-world s
 
 <td align="center" width="160">
 
-## Languages
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python" width="45"/>
+<img src="https://skillicons.dev/icons?i=java" width="45"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="45"/>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python" width="48"/>
-<img src="https://skillicons.dev/icons?i=java" width="48"/>
-<img src="https://skillicons.dev/icons?i=cpp" width="48"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=js" width="48"/>
-<img src="https://skillicons.dev/icons?i=ts" width="48"/>
-<img src="https://skillicons.dev/icons?i=dart" width="48"/>
+<img src="https://skillicons.dev/icons?i=js" width="45"/>
+<img src="https://skillicons.dev/icons?i=ts" width="45"/>
+<img src="https://skillicons.dev/icons?i=dart" width="45"/>
 
 </td>
 
 <td align="center" width="160">
 
-## Frontend
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react" width="45"/>
+<img src="https://skillicons.dev/icons?i=nextjs" width="45"/>
+<img src="https://skillicons.dev/icons?i=html" width="45"/>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=react" width="48"/>
-<img src="https://skillicons.dev/icons?i=nextjs" width="48"/>
-<img src="https://skillicons.dev/icons?i=html" width="48"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=css" width="48"/>
-<img src="https://skillicons.dev/icons?i=tailwind" width="48"/>
+<img src="https://skillicons.dev/icons?i=css" width="45"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
 
 </td>
 
 <td align="center" width="160">
 
-## Mobile
+### Mobile
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=flutter" width="52"/>
-<img src="https://skillicons.dev/icons?i=react" width="52"/>
+<img src="https://skillicons.dev/icons?i=flutter" width="50"/>
+<img src="https://skillicons.dev/icons?i=react" width="50"/>
 
 </td>
 
 <td align="center" width="160">
 
-## Backend
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
+<img src="https://skillicons.dev/icons?i=express" width="45"/>
+<img src="https://skillicons.dev/icons?i=flask" width="45"/>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=nodejs" width="48"/>
-<img src="https://skillicons.dev/icons?i=express" width="48"/>
-<img src="https://skillicons.dev/icons?i=flask" width="48"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=firebase" width="48"/>
+<img src="https://skillicons.dev/icons?i=firebase" width="45"/>
 
 </td>
 
 <td align="center" width="160">
 
-## Databases
+### Databases
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=mongodb" width="48"/>
-<img src="https://skillicons.dev/icons?i=postgresql" width="48"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="48"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
+<img src="https://skillicons.dev/icons?i=postgresql" width="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
 
 </td>
 
 <td align="center" width="160">
 
-## AI / ML
+### AI / ML
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48"/>
-<img src="https://skillicons.dev/icons?i=pytorch" width="48"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" width="45"/>
+<img src="https://skillicons.dev/icons?i=pytorch" width="45"/>
 
 <br><br>
 
@@ -268,7 +178,7 @@ OpenCV
 
 <br>
 
-## Tools & Platforms
+### Tools & Platforms
 
 <br>
 
@@ -277,8 +187,6 @@ OpenCV
 </div>
 
 ---
-
-<!-- ================= PROJECTS ================= -->
 
 # 🚀 Featured Projects
 
@@ -290,20 +198,22 @@ OpenCV
 
 <div align="center">
 
-# 🅿️ ParkEase
+<img src="./assets/parkease.png"/>
+
+## 🅿️ ParkEase
 
 ### Smart IoT Parking System
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PrakharDas&repo=ParkEase&theme=tokyonight&hide_border=true"/>
-
-<br>
-
 `Flutter` `Firebase` `ESP32`
-
-<br><br>
 
 Real-time smart parking system with slot booking and live monitoring.
 
+<br>
+
+<a href="YOUR_REPO_LINK">
+  <img src="https://img.shields.io/badge/View%20Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 </td>
@@ -312,19 +222,21 @@ Real-time smart parking system with slot booking and live monitoring.
 
 <div align="center">
 
-# 🛸 Hawkeye
+<img src="./assets/hawkeye.png"/>
 
-### AI Drone Detection
+## 🛸 Hawkeye
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PrakharDas&repo=Hawkeye&theme=tokyonight&hide_border=true"/>
-
-<br>
+### AI Drone Detection System
 
 `React` `Flask` `YOLOv7`
 
-<br><br>
+Real-time drone detection platform using AI and computer vision.
 
-Real-time drone detection using OpenCV and custom YOLO models.
+<br>
+
+<a href="YOUR_REPO_LINK">
+  <img src="https://img.shields.io/badge/View%20Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -334,19 +246,21 @@ Real-time drone detection using OpenCV and custom YOLO models.
 
 <div align="center">
 
-# 💉 MedDrip
+<img src="./assets/meddrip.png"/>
+
+## 💉 MedDrip
 
 ### IoT Saline Monitoring
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PrakharDas&repo=MedDrip&theme=tokyonight&hide_border=true"/>
+`Flutter` `Firebase` `ESP32`
+
+Healthcare IoT platform for real-time saline monitoring and alerts.
 
 <br>
 
-`Flutter` `Firebase` `ESP32`
-
-<br><br>
-
-IoT saline monitoring system with live alerts and tracking dashboard.
+<a href="YOUR_REPO_LINK">
+  <img src="https://img.shields.io/badge/View%20Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -358,15 +272,13 @@ IoT saline monitoring system with live alerts and tracking dashboard.
 
 ---
 
-<!-- ================= GITHUB ANALYTICS ================= -->
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=PrakharDas&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrakharDas&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharDas&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharDas&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
@@ -374,13 +286,11 @@ IoT saline monitoring system with live alerts and tracking dashboard.
 
 <br><br>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrakharDas&theme=tokyo-night&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PrakharDas&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
-
-<!-- ================= RESUME ================= -->
 
 # 📄 Resume
 
@@ -395,8 +305,6 @@ IoT saline monitoring system with live alerts and tracking dashboard.
 </div>
 
 ---
-
-<!-- ================= CONTACT ================= -->
 
 # 📫 Contact
 
@@ -429,5 +337,3 @@ IoT saline monitoring system with live alerts and tracking dashboard.
 ### Striving to build software that makes a difference 🚀
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0B0014,25:21003A,50:5600A8,75:8A2BE2,100:C77DFF"/>
